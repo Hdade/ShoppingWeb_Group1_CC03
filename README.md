@@ -30,9 +30,10 @@ The **Shopping Web** project is an online platform designed to provide users wit
 ---
 
 ## Technologies Used  
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Database: SQL Server  
+- Frontend: we use HTML for structuring the content and CSS for styling on pages. Additionally, we put in some lines of Javascript to print messages and errors on the console log.
+- Backend: PHP is the main language for this assignment. PHP is a server-side scripting language designed for web development. Its ability to process data efficiently and generate HTML content makes it an excellent choice for backend development. Furthermore, PHP’s wide adoption and compatibility with various databases and servers ensure flexibility and scalability for projects of all sizes.
+- Database: we selected SQL due to its ability of handling data. It is a reliable language for managing and manipulating data.
+- Server: we utilize Apache server to be our serving platform. The key reason is that Apache is a versatile and secure web server. It also provides excellent performance, supports modular extensions and ensures compatibility with PHP. 
 
 ---
 
